@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\bin\MCD\Debug\netcoreapp3.1\Ejercicio100num.exe
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\bin\MCD\Debug\netcoreapp3.1\Ejercicio100num.deps.json
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\bin\MCD\Debug\netcoreapp3.1\Ejercicio100num.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\bin\MCD\Debug\netcoreapp3.1\Ejercicio100num.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\bin\MCD\Debug\netcoreapp3.1\Ejercicio100num.dll
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\bin\MCD\Debug\netcoreapp3.1\Ejercicio100num.pdb
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\obj\MCD\Debug\netcoreapp3.1\Ejercicio100num.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\obj\MCD\Debug\netcoreapp3.1\Ejercicio100num.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\obj\MCD\Debug\netcoreapp3.1\Ejercicio100num.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\obj\MCD\Debug\netcoreapp3.1\Ejercicio100num.dll
+C:\Users\Jonathan\Desktop\Trabajos C#\Ejercicio100num\obj\MCD\Debug\netcoreapp3.1\Ejercicio100num.pdb
